@@ -37,5 +37,5 @@ npm install -g .
 # Usage
 
 ```bash
-ff -t <formation file you want to fix>
+ff -t <formation file you want to fix> -f <optional:format> -o <optional:output file name>
 ```
